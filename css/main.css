@@ -1,0 +1,7 @@
+.bg{
+    background-image: linear-gradient(rgb(0, 0, 255,.6),rgb(255, 0, 0,.5)),url('https://th.bing.com/th/id/R.bb82c5bfecc188fa68698d2c5fb77a90?rik=gpkO%2ftg3mpm3lg&pid=ImgRaw&r=0');
+    padding: 200px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
